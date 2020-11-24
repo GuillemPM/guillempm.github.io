@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>guillempm.github.io/zh/basics/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="guillempm.github.io/en/basics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="guillempm.github.io/fr/basics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="guillempm.github.io/zh/basics/"
+                />
+  </url>
+  
+  <url>
+    <loc>guillempm.github.io/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="guillempm.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="guillempm.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="guillempm.github.io/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>guillempm.github.io/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="guillempm.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="guillempm.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="guillempm.github.io/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>guillempm.github.io/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="guillempm.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="guillempm.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="guillempm.github.io/zh/tags/"
+                />
+  </url>
+  
+</urlset>
